@@ -1,13 +1,4 @@
 # Blood-Group-Prediction-from-Fingerprints-Using-CNN
-
-## :information_source: Need Help or More Details?
-
-If you have any **questions**, need **project reports** or **PowerPoint presentations**, or require the **complete code** and **setup instructions**, don't hesitate to contact me:
-
-📧 **Email:** [karthikgr1908@gmail.com](mailto:karthikgr1908@gmail.com)
-🔗 **LinkedIn:** [Karthik G](https://www.linkedin.com/in/karthik-g-04b016210/) 
-
-
 ## :computer: System Architecture
 
 The system architecture is designed to predict blood groups from fingerprint images using deep learning techniques. The architecture includes the following components:
@@ -111,9 +102,3 @@ For any issues or bugs, feel free to open an issue in the GitHub repository.
 - Extend the project to classify more characteristics from fingerprints, such as age or gender.
 
 
-## :information_source: Need Help or More Details?
-
-If you have any **questions**, need **project reports** or **PowerPoint presentations**, or require the **complete code** and **setup instructions**, don't hesitate to contact me:
-
-📧 **Email:** [karthikgr1908@gmail.com](mailto:karthikgr1908@gmail.com)
-🔗 **LinkedIn:** [Karthik G](https://www.linkedin.com/in/karthik-g-04b016210/) 
